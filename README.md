@@ -3,7 +3,7 @@
 🎓 Student at **Parul University**  
 💻 Backend Developer (Python | Django | Java)  
 🚀 Passionate about building scalable web applications and clean backend systems  
-📚 Currently exploring **Cloudinary, WhiteNoise, and advanced Django deployment**
+📚 Currently learning Django REST Framework & advanced backend concepts
 
 ---
 
@@ -93,16 +93,34 @@ Certificate of Participation in Online Assessment conducted by Flipkart in colla
 ## 📊 GitHub Stats
 
 <table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikanimmana&theme=tokyonight" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikanimmana&layout=compact&theme=tokyonight" />
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikanimmana&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikanimmana&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-⭐ *“Consistency beats intensity.”*
+## 🚀 Current Focus
+
+- 🐍 Advanced **Django REST Framework**
+- 🔐 Authentication & Authorization (**JWT**)  
+- 🗄️ Database optimization  
+- 🏗️ System design basics  
+- ⚙️ Backend project architecture  
+
+🔍 *“Programming is the art of turning problems into possibilities.”*
+
+---
+
+## 💻 Check Out My Repos ⬇️
+
+- 🔗 [Django REST Framework Projects](https://github.com/monikanimmana?tab=repositories&q=django&type=&language=&sort=)
+- 🔗 [Authentication & JWT Implementations](https://github.com/monikanimmana?tab=repositories&q=jwt&type=&language=&sort=)
+- 🔗 [Database Optimization Experiments](https://github.com/monikanimmana?tab=repositories&q=database&type=&language=&sort=)
+- 🔗 [System Design & Architecture](https://github.com/monikanimmana?tab=repositories&q=system+design&type=&language=&sort=)
+- 🔗 [Backend Projects](https://github.com/monikanimmana?tab=repositories&q=backend&type=&language=&sort=)
