@@ -12,10 +12,10 @@
 - 💻 Strong in **Python, Django, Django REST Framework**
 - 🔐 Interested in **Backend Development & Web Security**
 - 🏗️ Built projects like:
-  - Dynamic Portfolio Website (Django)
-  - Media Management using Cloudinary
-  - Student Course / Record Management System
-  - Admin Panel Customization & Static File Handling
+  - Portfolio Website (Django)
+  - To-Do List Manager
+  - Bank Management System (OOP)
+  - Student Course Management System (API-based)
 - 🎯 Goal: Become a professional **Backend Engineer**
 
 ---
@@ -74,11 +74,18 @@ Certificate of Participation in Online Assessment conducted by Flipkart in colla
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/monika-nimmana)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/monikanimmana)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:your-email@example.com)
+<p align="center">
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-4B5563?style=for-the-badge)](https://your-portfolio-link)
+[![Website](https://img.shields.io/badge/Personal_Site-84CC16?style=for-the-badge)](https://your-website-link)
+[![Email](https://img.shields.io/badge/Reach_Me-E5533D?style=for-the-badge)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monikanimmana)
+
+</p>
+
 
 ---
 
