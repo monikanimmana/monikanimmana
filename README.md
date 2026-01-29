@@ -78,13 +78,14 @@ Certificate of Participation in Online Assessment conducted by Flipkart in colla
 
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-4B5563?style=for-the-badge)](https://your-portfolio-link)
-[![Website](https://img.shields.io/badge/Personal_Site-84CC16?style=for-the-badge)](https://your-website-link)
-[![Email](https://img.shields.io/badge/Reach_Me-E5533D?style=for-the-badge)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monikanimmana)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B5563?style=for-the-badge)](https://your-portfolio-link)
+[![Website](https://img.shields.io/badge/🔗_Website-84CC16?style=for-the-badge)](https://your-website-link)
+[![Email](https://img.shields.io/badge/✉️_Email-E5533D?style=for-the-badge)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monikanimmana)
 
 </p>
+
 
 
 ---
