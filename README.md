@@ -78,8 +78,8 @@ Certificate of Participation in Online Assessment conducted by Flipkart in colla
 
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B5563?style=for-the-badge)](https://https://monikanimmana-portfolio.onrender.com)
-[![Website](https://img.shields.io/badge/🔗_Website-84CC16?style=for-the-badge)](https://https://monikanimmana-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B5563?style=for-the-badge)](https://monikanimmana-portfolio.onrender.com)
+[![Website](https://img.shields.io/badge/🔗_Website-84CC16?style=for-the-badge)](https://monikanimmana-portfolio.onrender.com)
 [![Email](https://img.shields.io/badge/✉️_Email-E5533D?style=for-the-badge)](mailto:monikanimmana3366@example.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-nimmana-0887652a4)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monikanimmana)
