@@ -92,9 +92,16 @@ Certificate of Participation in Online Assessment conducted by Flipkart in colla
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikanimmana&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monikanimmana&layout=compact&theme=tokyonight&cache_seconds=86400)
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevithswarup&theme=tokyonight" />
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithswarup&layout=compact&theme=tokyonight" alt="Top Languages" />
+</td>
+</td>
+</tr>
+</table>
 
 ---
 
