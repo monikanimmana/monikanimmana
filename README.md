@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- - 💻 Backend-focused developer working with **Python, Django & DRF**
+- 💻 Backend-focused developer working with **Python, Django & DRF**
 - 🧠 Strong interest in **Data Structures & Algorithms using Java**
 - 🧠 Practicing **DSA primarily on PrepInsta**, with occasional problem-solving on **LeetCode & HackerRank**
 - 🔐 Curious about **Web Application Security**
