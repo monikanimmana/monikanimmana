@@ -9,14 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Strong in **Python, Django, Django REST Framework**
-- 🔐 Interested in **Backend Development & Web Security**
-- 🏗️ Built projects like:
-  - Portfolio Website (Django)
-  - To-Do List Manager
-  - Bank Management System (OOP)
-  - Student Course Management System (API-based)
-- 🎯 Goal: Become a professional **Backend Engineer**
+- - 💻 Backend-focused developer working with **Python, Django & DRF**
+- 🧠 Strong interest in **Data Structures & Algorithms using Java**
+- 🧠 Practicing **DSA primarily on PrepInsta**, with occasional problem-solving on **LeetCode & HackerRank**
+- 🔐 Curious about **Web Application Security**
+- 🧩 Enjoy designing **clean APIs and backend logic**
+- 🎯 Aspiring **Backend Engineer**
 
 ---
 
@@ -108,11 +106,12 @@ Certificate of Participation in Online Assessment conducted by Flipkart in colla
 
 ## 🚀 Current Focus
 
-- 🐍 Advanced **Django REST Framework**
-- 🔐 Authentication & Authorization (**JWT**)  
-- 🗄️ Database optimization  
-- 🏗️ System design basics  
-- ⚙️ Backend project architecture  
+- ☕ **Java Coding Practice** – Daily Java programs to strengthen core concepts, OOP, and problem-solving skills  
+- 🌦️ **Weather Report Project** – Backend-focused project using APIs to fetch, process, and serve real-time weather data  
+- 🔑 Working with API keys and understanding secure API usage  
+- 🗄️ Handling data processing and basic backend logic  
+- ⚙️ Learning clean backend structure and request-response flow
+ 
 
 🔍 *“Programming is the art of turning problems into possibilities.”*
 
