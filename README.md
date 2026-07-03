@@ -48,84 +48,74 @@ class Monika:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <br>Python
-    </td>
-
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
       <br>Java
     </td>
 
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/>
       <br>Django
     </td>
 
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" />
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/>
       <br>FastAPI
     </td>
 
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/>
       <br>GitHub
     </td>
 
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/>
       <br>REST API
     </td>
 
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
       <br>Docker
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
       <br>PostgreSQL
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
       <br>CSS
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
       <br>Tailwind
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
       <br>Git
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
       <br>Redis
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
       <br>Postman
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
       <br>Linux
     </td>
   </tr>
