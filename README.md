@@ -48,7 +48,7 @@ class Monika:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
       <br>Python
     </td>
 
@@ -58,12 +58,12 @@ class Monika:
     </td>
 
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
 
@@ -105,7 +105,7 @@ class Monika:
     </td>
 
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
 
@@ -127,13 +127,6 @@ class Monika:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-      <br>SQL
     </td>
   </tr>
 </table>
