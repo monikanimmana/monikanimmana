@@ -1,123 +1,232 @@
-# Hi 👋, I'm Monika Nimmana
+# 🌸 Hero Banner (Custom SVG)
 
-🎓 Student at **Parul University**  
-💻 Backend Developer (Python | Django | Java)  
-🚀 Passionate about building scalable web applications and clean backend systems  
-📚 Currently learning Django REST Framework & advanced backend concepts
+<!-- Animated Banner -->
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💻 Backend-focused developer working with **Python, Django & DRF**
-- 🧠 Strong interest in **Data Structures & Algorithms using Java**
-- 🧠 Practicing **DSA primarily on PrepInsta**, with occasional problem-solving on **LeetCode & HackerRank**
-- 🔐 Curious about **Web Application Security**
-- 🧩 Enjoy designing **clean APIs and backend logic**
-- 🎯 Aspiring **Backend Engineer**
+<!-- Typing Animation -->
 
 ---
 
-## 🛠 Skill Set
+<div align="center">
 
-<table>
-<tr>
-<td align="center"><b>🚀 Backend</b></td>
-<td align="center"><b>🌐 Frontend</b></td>
-<td align="center"><b>💻 Languages</b></td>
-<td align="center"><b>⚙️ Tools</b></td>
-</tr>
+# 👩🏻 Monika
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</td>
+### Backend Developer | AI Enthusiast | Python Developer
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</td>
+*"Building scalable backend systems that matter."*
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>
-<img src="https://i0.wp.com/moodle.sit.ac.in/blog/wp-content/uploads/2023/06/c.png?fit=709%2C555&ssl=1" width="60"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🏆 Achievement
+<div align="center">
 
-**Flipkart Runway: Season 5**  
-Certificate of Participation in Online Assessment conducted by Flipkart in collaboration with Unstop.
+Portfolio • LinkedIn • LeetCode • Resume • Email
 
----
+Profile Views • Followers • Stars
 
-## 📌 Practice & Learning
-
-- 📘 **Java Codes Repository** – Daily Java practice programs organized topic-wise  
-- 🔁 Consistent GitHub contributions to build strong problem-solving skills  
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+# 👩🏻 About Me
 
-<p align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B5563?style=for-the-badge)](https://monikanimmana-portfolio.onrender.com)
-[![Website](https://img.shields.io/badge/🔗_Website-84CC16?style=for-the-badge)](https://monikanimmana-portfolio.onrender.com)
-[![Email](https://img.shields.io/badge/✉️_Email-E5533D?style=for-the-badge)](mailto:monikanimmana3366@example.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-nimmana-0887652a4)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monikanimmana)
-
-</p>
-
-
+- 🎓 Computer Science Student
+- 💻 Backend Developer
+- 🚀 Building REST APIs
+- 🤖 Learning AI & LLM Applications
+- 🌱 Exploring Cloud & DevOps
+- 📍 India
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Currently Working On
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikanimmana&theme=tokyonight" />
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monikanimmana&theme=tokyonight" />
-
-
-</p>
-</td>
-</td>
-</tr>
-</table> 
+- AI Chatbot using FastAPI + Ollama
+- Attendance Management System
+- Django REST APIs
+- Docker
+- Redis
 
 ---
 
-## 🚀 Current Focus
+# 🌱 Currently Learning
 
-- ☕ **Java Coding Practice** – Daily Java programs to strengthen core concepts, OOP, and problem-solving skills  
-- 🌦️ **Weather Report Project** – Backend-focused project using APIs to fetch, process, and serve real-time weather data  
-- 🔑 Working with API keys and understanding secure API usage  
-- 🗄️ Handling data processing and basic backend logic  
-- ⚙️ Learning clean backend structure and request-response flow
- 
-
-🔍 *“Programming is the art of turning problems into possibilities.”*
+- Kubernetes
+- AWS
+- System Design
+- LangChain
+- RAG
 
 ---
 
-## 💻 Check Out My Repos ⬇️
+# ⚙️ My Favorite Tools & Technologies
 
+> Tools and technologies that I have worked with and am interested in.
+
+### 👨‍💻 Languages
+
+Python • Java • SQL • JavaScript
+
+### ⚡ Backend
+
+FastAPI • Django • Flask
+
+### 🗄️ Database
+
+PostgreSQL • MySQL • SQLite • MongoDB
+
+### 🤖 AI
+
+Ollama • LangChain • Gemini • RAG
+
+### ☁️ DevOps
+
+Docker • GitHub Actions
+
+### 🛠️ Tools
+
+Git • Linux • VS Code • Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Chatbot
+
+FastAPI + Ollama + Qwen
+
+---
+
+## 🌐 CivicPulse
+
+Django REST Framework
+
+---
+
+## ✈️ TraviqueYou
+
+Gemini AI Travel Planner
+
+---
+
+## 🏫 Attendance Management System
+
+Role Based Authentication
+
+---
+
+## 🏦 Bank Management System
+
+Python OOP Project
+
+---
+
+# 📊 GitHub Statistics
+
+<!-- GitHub Stats -->
+
+<!-- GitHub Streak -->
+
+<!-- Top Languages -->
+
+---
+
+# 📈 Contribution Graph
+
+<!-- Activity Graph -->
+
+---
+
+# 🏆 GitHub Achievements
+
+<!-- GitHub Trophy -->
+
+---
+
+# 🐍 Contribution Snake
+
+<!-- Snake Animation -->
+
+---
+
+# 📚 Coding Activity
+
+<!-- WakaTime -->
+
+---
+
+# 💻 Workspace
+
+**Laptop**
+
+**Operating System**
+
+**Editor**
+
+**Browser**
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master FastAPI
+- ✅ Master Django
+- 🔄 Learn Docker
+- 🔄 Learn Kubernetes
+- 🔄 Learn AWS
+- 🔄 Contribute to Open Source
+- 🔄 Build AI SaaS Products
+
+---
+
+# 🌸 Fun Facts
+
+- ☕ Coffee + Python = Productivity
+- 🐍 Python Enthusiast
+- 🚀 Backend Lover
+- 🤖 AI Explorer
+- 📚 Lifelong Learner
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+LeetCode
+
+GitHub
+
+Email
+
+---
+
+# ❤️ Support
+
+If you like my projects, consider giving them a ⭐.
+
+---
+
+# 👀 Visitor Count
+
+<!-- Visitor Badge -->
+
+---
+
+<div align="center">
+
+### Thanks for Visiting ❤️
+
+Happy Coding 👩🏻‍💻
+
+</div>
