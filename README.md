@@ -145,7 +145,7 @@ class Monika:
 </div>
 
 ### TravelqueYou — AI Travel Planning Platform
-> *Rebuilt entirely solo after originating as a hackathon project*
+> *Built entirely as a hackathon project*
 
 - 🤖 **Shiro AI** — RAG assistant built with pgvector + Gemini AI for trip planning
 - 🏗️ **9 modules** — auth, trips, itinerary, budget, packing, destinations, AI, notifications, analytics
@@ -186,12 +186,9 @@ class Monika:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=monikanimmana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monikanimmana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 ## 🎯 Currently
 
 ```bash
