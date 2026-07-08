@@ -139,8 +139,8 @@ class Monika:
 
 | Project | What it Does | Stack | Links |
 |--------|-------------|-------|-------|
-| 🌍 **TravelqueYou** | AI travel planner with RAG-based assistant **Shiro** — 9 modules, 12 DB tables, full deployment | `Django` `DRF` `pgvector` `RAG` `Gemini AI` `React` `Railway` `Netlify` | [![GitHub](https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github)](https://github.com/monikanimmana) [![Live](https://img.shields.io/badge/Live-0ea5e9?style=flat-square&logo=vercel)](https://github.com/monikanimmana) |
-| 🗺️ **CivicLens** | Geospatial civic issue monitoring — AI classifies issues from photos, maps them in real-time | `Django` `PostGIS` `Vision API` `Gemini AI` `PostgreSQL` `Redis` `Celery` | [![GitHub](https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github)](https://github.com/monikanimmana) |
+| 🌍 **TravelqueYou** | AI travel planner with RAG-based assistant **Shiro** — 9 modules, 12 DB tables, full deployment | `Django` `DRF` `pgvector` `RAG` `Gemini AI` `React` `Railway` `Netlify` | [![GitHub](https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github)](https://github.com/monikanimmana/TravelqueYou) [![Live](https://img.shields.io/badge/Live-0ea5e9?style=flat-square&logo=vercel)](https://github.com/monikanimmana) |
+| 🗺️ **CivicLens** | Geospatial civic issue monitoring — AI classifies issues from photos, maps them in real-time | `Django` `PostGIS` `Vision API` `Gemini AI` `PostgreSQL` `Redis` `Celery` | [![GitHub](https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github)]([https://github.com/monikanimmana](https://github.com/monikanimmana/CivicLens)) |
 
 </div>
 
