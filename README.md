@@ -210,10 +210,10 @@ $ monika --status
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Monika%20Nimmana-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monika-nimmana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Monika%20Nimmana-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-nimmana-0887652a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-monikanimmana-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monikanimmana)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Grind-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/Email-Open_to_Opportunities-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Grind-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/monika_nimmana/)
+[![Email](https://img.shields.io/badge/Email-Open_to_Opportunities-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monikanimmana3366@email.com)
 
 <br/>
 
