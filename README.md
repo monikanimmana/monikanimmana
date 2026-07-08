@@ -56,6 +56,10 @@ class Monika:
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
@@ -66,6 +70,10 @@ class Monika:
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
@@ -100,6 +108,14 @@ class Monika:
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+      <br>Redis
     </td>
   </tr>
    <tr>
