@@ -32,14 +32,14 @@ class Monika:
     ask_me      = ["Python", "Django REST Framework", "RAG", "pgvector"]
 ```
 
--🎓 Final-year B.Tech CSE student, graduating 2027 — Parul University, Vadodara
--🔧 Backend-first mindset — designing REST APIs, async task pipelines (Celery + Redis), and scalable relational/geospatial database schemas (PostgreSQL, PostGIS)
--🤖 Building AI-powered systems with Google Gemini, RAG pipelines, Vision APIs, and pgvector for context-aware, production-grade applications
--🧠 Exploring LLM system design — architecting retrieval pipelines, prompt orchestration, and vector search for scalable AI features
--🐳 Comfortable across the deployment stack — Docker, Railway, Render, Netlify
--🌍 Based in India — open to relocating anywhere for the right opportunity
--📈 Practicing DSA daily on LeetCode, sharpening problem-solving for technical interviews
--🏗️ Solo-built end-to-end, full-stack projects — from database design to deployment
+- 🎓 Final-year B.Tech CSE student, graduating 2027 — Parul University, Vadodara
+- 🔧 Backend-first mindset — designing REST APIs, async task pipelines (Celery + Redis), and scalable relational/geospatial database schemas (PostgreSQL, PostGIS)
+- 🤖 Building AI-powered systems with Google Gemini, RAG pipelines, Vision APIs, and pgvector for context-aware, production-grade applications
+- 🧠 Exploring LLM system design — architecting retrieval pipelines, prompt orchestration, and vector search for scalable AI features
+- 🐳 Comfortable across the deployment stack — Docker, Railway, Render, Netlify
+- 🌍 Based in India — open to relocating anywhere for the right opportunity
+- 📈 Practicing DSA daily on LeetCode, sharpening problem-solving for technical interviews
+- 🏗️ Solo-built end-to-end, full-stack projects — from database design to deployment
 ---
 
 
