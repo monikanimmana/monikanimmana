@@ -49,86 +49,89 @@ class Monika:
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-      </a>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
       <br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48"/>
       <br>Django
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="FastAPI" width="50" height="50" />
+    <td align="center" width="80">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="48" height="48"/>
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-      <br>REST API
+  </tr>
+
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/>
+      <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48"/>
       <br>Docker
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/>
+      <br>REST API
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+  </tr>
+
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
       <br>Redis
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/>
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="40" height="40" alt="Celery" />
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+      <br>HTML
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+      <br>CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48"/>
       <br>Celery
     </td>
   </tr>
