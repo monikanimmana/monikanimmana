@@ -48,73 +48,96 @@ class Monika:
 > Tools and technologies that I have worked with and am interested in.
 
 <table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python
-</td>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="65"/><br>Java
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=django" width="65"/><br>Django
-</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
 
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="65"/><br>FastAPI
-</td>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git
-</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub
-</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="65"/><br>Docker
-</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>PostgreSQL
-</td>
-</tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>SQL
-</td>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redis" width="65"/><br>Redis
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="65"/><br>Postman
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+      <br>Redis
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+      <br>Postman
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <br>Linux
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+      <br>HTML
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap
-</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+      <br>CSS
+    </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind
-</td>
-</tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+      <br>Tailwind CSS
+    </td>
+  </tr>
 </table>
 
 ## 🚀 Featured Projects
