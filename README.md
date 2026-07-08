@@ -69,6 +69,10 @@ class Monika:
       <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="48" height="48"/>
       <br>FastAPI
     </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/>
+      <br>REST API
+    </td>
   </tr>
 
   <tr>
@@ -77,20 +81,24 @@ class Monika:
       <br>GitHub
     </td>
     <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48"/>
-      <br>Docker
-    </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/>
-      <br>REST API
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
       <br>Git
     </td>
     <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48"/>
+      <br>Docker
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
       <br>PostgreSQL
+    </td>
+     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/>
+      <br>Postman
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+      <br>Linux
     </td>
   </tr>
 
@@ -104,21 +112,14 @@ class Monika:
       <br>Redis
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/>
-      <br>Postman
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
-      <br>Linux
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48"/>
+      <br>Celery
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
       <br>HTML
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="80">
+     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
       <br>CSS
     </td>
@@ -126,14 +127,9 @@ class Monika:
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
       <br>Bootstrap
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48"/>
-      <br>Celery
-    </td>
+  </tr>
+
+  <tr>
   </tr>
 </table>
 
