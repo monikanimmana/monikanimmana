@@ -13,7 +13,7 @@
 <!-- Profile Views + Followers Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=monikanimmana&color=0ea5e9&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/monikanimmana?style=flat-square&color=8b5cf6&label=Followers)](https://github.com/monikanimmana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=flat-square&logo=linkedin)](https://linkedin.com/in/monika-nimmana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=flat-square&logo=linkedin)]([https://linkedin.com/in/monika-nimmana](https://www.linkedin.com/in/monika-nimmana-0887652a4/))
 
 </div>
 
@@ -30,15 +30,16 @@ class Monika:
     currently   = "Building AI-powered systems with Django + RAG pipelines"
     open_to     = "Fresher roles across India — open to relocation"
     ask_me      = ["Python", "Django REST Framework", "RAG", "pgvector"]
-    fun_fact    = "I rebuilt an entire hackathon project solo — end to end 🔧"
 ```
 
-- 🎓 Final year CSE student graduating **2027**
-- 🔧 Backend-first mindset — REST APIs, async pipelines, and database design
-- 🤖 Building with **Gemini AI**, **RAG**, **Vision APIs**, and **pgvector**
-- 🌍 Practicing **DSA** daily on LeetCode
-- 📍 Based in India — open to relocation anywhere
-
+🎓 Final-year B.Tech CSE student, graduating 2027 — Parul University, Vadodara
+🔧 Backend-first mindset — designing REST APIs, async task pipelines (Celery + Redis), and scalable relational/geospatial database schemas (PostgreSQL, PostGIS)
+🤖 Building AI-powered systems with Google Gemini, RAG pipelines, Vision APIs, and pgvector for context-aware, production-grade applications
+🧠 Exploring LLM system design — architecting retrieval pipelines, prompt orchestration, and vector search for scalable AI features
+🐳 Comfortable across the deployment stack — Docker, Railway, Render, Netlify
+🌍 Based in India — open to relocating anywhere for the right opportunity
+📈 Practicing DSA daily on LeetCode, sharpening problem-solving for technical interviews
+🏗️ Solo-built end-to-end, full-stack projects — from database design to deployment
 ---
 
 
