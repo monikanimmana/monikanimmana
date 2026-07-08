@@ -165,19 +165,21 @@ class Monika:
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monikanimmana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=8b5cf6&text_color=94a3b8&ring_color=0ea5e9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikanimmana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8&langs_count=6" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monikanimmana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikanimmana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monikanimmana&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=8b5cf6&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=monikanimmana&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=monikanimmana&bg_color=0f172a&color=0ea5e9&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="98%"/>
 
 </div>
@@ -188,7 +190,7 @@ class Monika:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=monikanimmana&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=monikanimmana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
